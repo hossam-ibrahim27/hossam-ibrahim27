@@ -38,6 +38,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" alt="bootstrap logo" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="35" alt="jest logo" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="git logo" />
+
+
+   ---
+
+<h2 align="left">📜 Certificates</h2>
+
+<p align="left">
+   You can view all my verified certificates in this dedicated repository:  
+   👉 <a href="https://github.com/hossam-ibrahim27/My_Certificate##academic-certificate" target="_blank"><b>My Certificates Repository</b></a>
+</p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
   <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="35" alt="shadcn ui logo" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="35" alt="material ui logo" />
