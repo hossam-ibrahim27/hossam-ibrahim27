@@ -10,7 +10,7 @@
 
 <p align="left">
   Detail-oriented <b>Front-End Developer</b> passionate about building <b>responsive, scalable, and user-friendly web applications</b> 
-  using modern technologies. Proficient in <b>React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass, and Tailwind CSS</b>. 
+  using modern technologies. Proficient in <b>React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass, and Tailwind CSS</b>. 
   Skilled in <b>state management</b> with <b>Redux Toolkit</b> and <b>server state handling</b> using <b>React Query, Axios, and Fetch API</b>. 
   Experienced in converting <b>Figma</b> designs into pixel-perfect, accessible interfaces and collaborating in team environments with 
   <b>Git, GitHub, Postman, and CLI</b>.
