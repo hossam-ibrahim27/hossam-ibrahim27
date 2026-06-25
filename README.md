@@ -1,4 +1,4 @@
-<!-- <h1 align="left">Hossam Ibrahim Hassan</h1>
+<h1 align="left">Hossam Ibrahim Hassan</h1>
 
 <p align="left">
    <b>Software Engineer | React Developer</b>
@@ -9,77 +9,23 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  Detail-oriented <b>Front-End Developer</b> passionate about building <b>responsive, scalable, and user-friendly web applications</b> 
-  using modern technologies. Proficient in <b>React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass, and Tailwind CSS</b>. 
-  Skilled in <b>state management</b> with <b>Redux Toolkit</b> and <b>server state handling</b> using <b>React Query, Axios, and Fetch API</b>. 
-  Experienced in converting <b>Figma</b> designs into pixel-perfect, accessible interfaces and collaborating in team environments with 
-  <b>Git, GitHub, Postman, and CLI</b>.
+  Aspiring <b>AI Engineer & Full-Stack Developer</b> with a passion for building <b>intelligent, scalable, and agentic web applications</b>. 
+  Deeply focused on bridging the gap between <b>Machine Learning models</b> and <b>robust backend services</b>. 
+  Proficient in <b>Python, React, FastAPI, and Cloud AI (Azure)</b>, with hands-on experience in <b>LLMs, RAG pipelines, and NLP</b>. 
+  Skilled in developing <b>AI Agents</b>, optimizing <b>MLOps workflows</b>, and deploying modern, high-performance interfaces. 
+  Dedicated to continuous learning and solving complex problems by integrating cutting-edge <b>Artificial Intelligence</b> into real-world applications.
 </p>
-
 <p align="left">
-  Familiar with <b>ready-made backend solutions</b> such as <b>Strapi and Firebase</b>, and knowledgeable in testing with <b>Jest</b>. 
-  Committed to writing clean, maintainable code and continuously learning modern development practices.
+  Experienced in building <b>robust backends</b> with <b>FastAPI and Flask</b>, alongside integrating <b>Cloud-native AI services</b> and <b>Vector Databases</b> for <b>RAG applications</b>. 
+  Proficient in <b>testing and monitoring ML pipelines</b>, ensuring code quality and scalability in <b>AI-driven projects</b>. 
+  Committed to writing <b>clean, efficient, and maintainable code</b> while continuously exploring emerging <b>AI architectures and MLOps practices</b>.
 </p>
 
 ---
 
-<h2 align="left">💻 Tech Stack</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="react logo" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="35" alt="shadcn ui logo" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="35" alt="material ui logo" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="javascript logo" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="35" alt="redux logo" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="35" alt="sass logo" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="35" alt="tailwind logo" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="html5 logo" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="css3 logo" /> 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" alt="bootstrap logo" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="35" alt="jest logo" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="git logo" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
-
-   ---
-
-<h2 align="left">📜 Certificates</h2>
-
-<p align="left">
-   You can view all my verified certificates in this dedicated repository:  
-   👉 <a href="https://github.com/hossam-ibrahim27/My_Certificate##academic-certificate" target="_blank"><b>My Certificates Repository</b></a> -->
-
-
-
-
-
-
-
-
-   
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&lines=AI Engineer ;Full Stack Developer ✨ Agentic Ai;AI Agents | LLMs | RAG | NLP | MLOps;Cloud AI (Azure) | React | Flask & FastAPI" alt="Typing Animation" />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&lines=AI+Engineer+|+Full+Stack+Developer;Agentic+AI+|+AI+Agents+|+LLMs;RAG+|+NLP+|+MLOps;Cloud+AI+(Azure)+|+React+|+Flask+&+FastAPI" alt="Typing Animation" />
-</h1>
-
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hossam-ibrahim27&label=Profile%20views&color=0e75b6&style=flat" alt="hossam-ibrahim27" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hossam-ibrahim27&theme=radical" alt="hossam-ibrahim27" />
-  </a> 
-</p>
-
----
-
-### 📤 Connect with me:
+<h2 align="left">📤 Connect with me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/hossam27" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam27" height="30" width="40" />
@@ -88,7 +34,8 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+<h2 align="left">🛠️ Languages and Tools</h2>
+
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
@@ -160,7 +107,8 @@
 
 ---
 
-### 📊 GitHub Analytics
+<h2 align="left">📊 GitHub Analytics </h2>
+
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossam-ibrahim27&show_icons=true&locale=en&layout=compact&theme=radical" alt="hossam-ibrahim27" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hossam-ibrahim27&show_icons=true&locale=en&theme=radical" alt="hossam-ibrahim27" />
@@ -169,4 +117,13 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossam-ibrahim27&theme=radical" alt="hossam-ibrahim27" />
 </p>
+   ---
+
+<h2 align="left">📜 Certificates</h2>
+
+<p align="left">
+   You can view all my verified certificates in this dedicated repository:  
+   👉 <a href="https://github.com/hossam-ibrahim27/My_Certificate##academic-certificate" target="_blank"><b>My Certificates Repository</b></a> 
+
+
 
