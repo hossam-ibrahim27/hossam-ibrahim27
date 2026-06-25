@@ -1,7 +1,7 @@
 <h1 align="left">Hossam Ibrahim Hassan</h1>
 
 <p align="left">
-   <b>Software Engineer | React Developer</b>
+   <b>AI Engineer | Full Stack Developer ✨ Agentic Ai | AI Agents | LLMs | RAG | NLP | MLOps | Cloud AI (Azure) | React | Flask & FastAPI</b>
 </p>
 
 ---
@@ -20,8 +20,6 @@
   Proficient in <b>testing and monitoring ML pipelines</b>, ensuring code quality and scalability in <b>AI-driven projects</b>. 
   Committed to writing <b>clean, efficient, and maintainable code</b> while continuously exploring emerging <b>AI architectures and MLOps practices</b>.
 </p>
-
----
 
 ---
 
@@ -117,6 +115,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossam-ibrahim27&theme=radical" alt="hossam-ibrahim27" />
 </p>
+
+
    ---
 
 <h2 align="left">📜 Certificates</h2>
