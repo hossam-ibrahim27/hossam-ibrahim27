@@ -56,16 +56,15 @@
 
 
 
-   <!-- الهيدر مع تأثير الكتابة التلقائية الحركي -->
+   
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&lines=Hi+👋,+I'm+Hossam+Ibrahim;AI+Engineer;Full+Stack+Developer;Building+Agentic+AI+%26+LLMs;Passionate+about+NLP+%26+MLOps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&lines=AI Engineer ;Full Stack Developer ✨ Agentic Ai;AI Agents | LLMs | RAG | NLP | MLOps;Cloud AI (Azure) | React | Flask & FastAPI" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">Agentic AI | AI Agents | LLMs | RAG | NLP | MLOps | Cloud AI (Azure) | React | Flask & FastAPI</h3>
 
 ---
 
-<!-- عداد الزوار وجوائز جيتهاب -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hossam-ibrahim27&label=Profile%20views&color=0e75b6&style=flat" alt="hossam-ibrahim27" /> 
 </p>
