@@ -103,6 +103,27 @@
   </a>
 </p>
 
+
+   ---
+
+<h2 align="left">🚀 Featured Projects</h2>
+<ul>
+  <li><b>FIFA World Cup 2026 Match Predictor:</b> Full-stack application utilizing Linear Regression, FastAPI, and React.</li>
+  <li><b>Cell Congestion Forecasting:</b> Graduation project focused on LTE networks using Deep Learning (LSTM) models.</li>
+</ul>
+
+   ---
+
+
+<h2 align="left">📜 Certificates</h2>
+<p align="left">
+   View my verified professional certificates: 👉 <a href="https://github.com/hossam-ibrahim27/My_Certificate" target="_blank"><b>My Certificates Repository</b></a>
+</p>
+
+<p align="center">
+  ✨ <i>Thanks for visiting my profile! Let's build something amazing together.</i> ✨
+</p>
+
 ---
 
 <h2 align="left">📊 GitHub Analytics </h2>
@@ -114,24 +135,4 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossam-ibrahim27&theme=radical" alt="hossam-ibrahim27" />
-</p>
-
-
-   ---
-
-<h2 align="left">🚀 Featured Projects</h2>
-<ul>
-  <li><b>FIFA World Cup 2026 Match Predictor:</b> Full-stack application utilizing Linear Regression, FastAPI, and React.</li>
-  <li><b>Cell Congestion Forecasting:</b> Graduation project focused on LTE networks using Deep Learning (LSTM) models.</li>
-</ul>
-   ---
-
-
-<h2 align="left">📜 Certificates</h2>
-<p align="left">
-   View my verified professional certificates: 👉 <a href="https://github.com/hossam-ibrahim27/My_Certificate" target="_blank"><b>My Certificates Repository</b></a>
-</p>
-
-<p align="center">
-  ✨ <i>Thanks for visiting my profile! Let's build something amazing together.</i> ✨
 </p>
