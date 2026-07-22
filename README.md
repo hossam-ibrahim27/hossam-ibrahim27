@@ -1,7 +1,7 @@
 <h1 align="left">Hossam Ibrahim Hassan</h1>
 
 <p align="left">
-   <b>AI Engineer | Full Stack Developer ✨ Agentic Ai | AI Agents | LLMs | RAG | NLP | MLOps | Cloud AI (Azure) | React | Flask & FastAPI</b>
+   <b>AI & Machine Learning Engineer | Computer Vision & NLP Specialist | Building & Deploying End-to-End AI Applications (LLMs, RAG, FastAPI, React, Electron)</b>
 </p>
 
 ---
@@ -9,16 +9,14 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  Aspiring <b>AI Engineer & Full-Stack Developer</b> with a passion for building <b>intelligent, scalable, and agentic web applications</b>. 
-  Deeply focused on bridging the gap between <b>Machine Learning models</b> and <b>robust backend services</b>. 
-  Proficient in <b>Python, React, FastAPI, and Cloud AI (Azure)</b>, with hands-on experience in <b>LLMs, RAG pipelines, and NLP</b>. 
-  Skilled in developing <b>AI Agents</b>, optimizing <b>MLOps workflows</b>, and deploying modern, high-performance interfaces. 
-  Dedicated to continuous learning and solving complex problems by integrating cutting-edge <b>Artificial Intelligence</b> into real-world applications.
+  Passionate <b>AI & Machine Learning Engineer</b> specializing in <b>Computer Vision and NLP</b>, dedicated to designing, building, and deploying <b>End-to-End AI Applications</b>. 
+  Deeply focused on bridging the gap between complex <b>Deep Learning models</b> and robust, production-ready software systems across <b>Web and Desktop platforms</b>. 
+  Proficient in <b>Python, PyTorch, React, TypeScript, and FastAPI</b>, with hands-on experience in training custom models (e.g., <b>YOLO</b>) and engineering modern <b>LLMs, RAG pipelines, and Vector Databases</b>.
 </p>
 <p align="left">
-  Experienced in building <b>robust backends</b> with <b>FastAPI and Flask</b>, alongside integrating <b>Cloud-native AI services</b> and <b>Vector Databases</b> for <b>RAG applications</b>. 
-  Proficient in <b>testing and monitoring ML pipelines</b>, ensuring code quality and scalability in <b>AI-driven projects</b>. 
-  Committed to writing <b>clean, efficient, and maintainable code</b> while continuously exploring emerging <b>AI architectures and MLOps practices</b>.
+  Skilled in engineering high-performance backends using <b>FastAPI</b>, integrating low-latency computer vision pipelines, and building interactive client interfaces with <b>React and Electron</b>. 
+  Experienced in optimizing <b>MLOps workflows</b>, model deployment, containerization with <b>Docker</b>, and real-time data streaming via <b>WebSockets</b>. 
+  Committed to writing <b>clean, maintainable, and scalable code</b> while continually leveraging cutting-edge Artificial Intelligence to solve complex, real-world engineering challenges.
 </p>
 
 ---
