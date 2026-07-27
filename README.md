@@ -126,17 +126,7 @@
   </a>
 </p>
 
-
-   ---
-
-<h2 align="left">🚀 Featured Projects</h2>
-<ul>
-  <li><b>FIFA World Cup 2026 Match Predictor:</b> Full-stack application utilizing Linear Regression, FastAPI, and React.</li>
-  <li><b>Cell Congestion Forecasting:</b> Graduation project focused on LTE networks using Deep Learning (LSTM) models.</li>
-</ul>
-
-   ---
-
+---
 
 <h2 align="left">📜 Certificates</h2>
 <p align="left">
