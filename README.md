@@ -1,7 +1,7 @@
 <h1 align="left">Hossam Ibrahim Hassan</h1>
 
 <p align="left">
-   <b>AI & Machine Learning Engineer | Computer Vision & NLP Specialist | Building & Deploying End-to-End AI Applications (LLMs, RAG, FastAPI, React, Electron)</b>
+  <b>AI & Computer Vision Engineer | Deep Learning & Real-Time Video Analytics Specialist | Building & Deploying End-to-End AI Solutions (FastAPI, React, Electron, Docker)</b>
 </p>
 
 ---
@@ -9,14 +9,16 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  Passionate <b>AI & Machine Learning Engineer</b> specializing in <b>Computer Vision and NLP</b>, dedicated to designing, building, and deploying <b>End-to-End AI Applications</b>. 
-  Deeply focused on bridging the gap between complex <b>Deep Learning models</b> and robust, production-ready software systems across <b>Web and Desktop platforms</b>. 
-  Proficient in <b>Python, PyTorch, React, TypeScript, and FastAPI</b>, with hands-on experience in training custom models (e.g., <b>YOLO</b>) and engineering modern <b>LLMs, RAG pipelines, and Vector Databases</b>.
+  Passionate <b>AI & Computer Vision Engineer</b> dedicated to designing, training, and deploying <b>End-to-End Visual Analytics Pipelines</b>. 
+  Deeply focused on bridging the gap between theoretical <b>Deep Learning models</b> and robust, real-time software solutions. 
+  Proficient in <b>Python, PyTorch, TensorFlow, and OpenCV</b>, with hands-on experience in training custom object detection and segmentation architectures (<b>YOLO, Faster R-CNN, Mask R-CNN</b>), keypoint estimation models leveraging <b>Transfer Learning</b>, and automatic text recognition systems (<b>PaddleOCR</b>).
 </p>
+
 <p align="left">
-  Skilled in engineering high-performance backends using <b>FastAPI</b>, integrating low-latency computer vision pipelines, and building interactive client interfaces with <b>React and Electron</b>. 
-  Experienced in optimizing <b>MLOps workflows</b>, model deployment, containerization with <b>Docker</b>, and real-time data streaming via <b>WebSockets</b>. 
-  Committed to writing <b>clean, maintainable, and scalable code</b> while continually leveraging cutting-edge Artificial Intelligence to solve complex, real-world engineering challenges.
+  Skilled in engineering high-performance backends using <b>FastAPI</b>, managing cloud databases like <b>MySQL</b>, and containerizing applications with <b>Docker</b>. 
+  Equipped with solid frontend and cross-platform integration capabilities using <b>JavaScript, TypeScript, React, and Electron.js</b>. 
+  Experienced in handling real-time video stream processing, optimizing object tracking pipelines, and solving production challenges like low latency and data synchronization. 
+  Committed to writing <b>clean, maintainable, and efficient code</b> to solve complex, real-world Computer Vision challenges.
 </p>
 
 ---
@@ -42,12 +44,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 
   <!-- AI & Data Science -->
@@ -115,8 +111,11 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
