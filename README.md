@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  Skilled in engineering high-performance backends using <b>FastAPI</b>, managing cloud databases like <b>MySQL</b>, and containerizing applications with <b>Docker</b>. 
+  Skilled in engineering high-performance backends using <b>FastAPI</b>, managing cloud databases, and containerizing applications with <b>Docker</b>. 
   Equipped with solid frontend and cross-platform integration capabilities using <b>JavaScript, TypeScript, React, and Electron.js</b>. 
   Experienced in handling real-time video stream processing, optimizing object tracking pipelines, and solving production challenges like low latency and data synchronization. 
   Committed to writing <b>clean, maintainable, and efficient code</b> to solve complex, real-world Computer Vision challenges.
