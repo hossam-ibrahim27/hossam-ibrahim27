@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 **Specialized in:** Building high-throughput, real-time visual analytics systems across edge and cloud environments.
-- ⚙️ **Core Deep Learning & CV Stack:** YOLOv8-v12, ByteTrack, PaddleOCR, OpenCV, PyTorch, Vision-Language Models (Gemini Vision, LLaVA).
+- ⚙️ **Core Deep Learning & CV Stack:** YOLO, ByteTrack, PaddleOCR, OpenCV, PyTorch, Vision-Language Models.
 - 🚀 **Production & Systems Integration:** Architecting asynchronous backend microservices with **FastAPI**, high-speed database interactions (**MySQL, PostgreSQL**), and containerization via **Docker**.
 - 💻 **Full-Stack & Desktop:** Engineering interactive real-time telemetry dashboards and applications using **React 19, TypeScript, Tailwind CSS, and Electron.js**.
 - 🎯 **Focus Areas:** Multi-stream RTSP/IP camera inference, automatic license plate recognition (ALPR), speed estimation engines, and industrial vision defect inspection.
@@ -30,7 +30,7 @@
 <table width="100%">
   <tr>
     <td width="45%"><b>Computer Vision & AI</b></td>
-    <td>
+    <td width="55%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="36" height="36"/>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36"/>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td width="45%"><b>Backend & Databases</b></td>
-    <td>
+    <td width="55%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="36" height="36"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td width="45%"><b>Frontend & Desktop</b></td>
-    <td>
+    <td width="55%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td width="45%"><b>DevOps & Tools</b></td>
-    <td>
+    <td width="55%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
