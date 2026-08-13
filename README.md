@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hossam Ibrahim Hassan</h1>
-<h3 align="center">AI & Computer Vision Engineer | Deep Learning & Real-Time Analytics Specialist</h3>
+<h3 align="center">AI & Computer Vision Engineer | Deep Learning & Real-Time Video Analytics Specialist | Building & Deploying End-to-End AI Solutions</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/hossam-ibrahim-0876ab354" target="_blank">
