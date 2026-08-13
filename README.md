@@ -28,8 +28,8 @@
 ## 🛠️ Tech Stack & Skills
 
 <table>
-  <tr>
-    <td width="100%"><b>Computer Vision & AI</b></td>
+  <tr width="100%>
+    <td width="30%"><b>Computer Vision & AI</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="36" height="36"/>
@@ -40,8 +40,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="36" height="36"/>
     </td>
   </tr>
-  <tr>
-    <td width="100%"><b>Backend & Databases</b></td>
+  <tr width="100%>
+    <td width="30%"><b>Backend & Databases</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="36" height="36"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
@@ -49,8 +49,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
     </td>
   </tr>
-  <tr>
-    <td width="100%"><b>Frontend & Desktop</b></td>
+  <tr width="100%>
+    <td width="30%"><b>Frontend & Desktop</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
@@ -60,8 +60,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="36" height="36"/>
     </td>
   </tr>
-  <tr>
-    <td width="100%"><b>DevOps & Tools</b></td>
+  <tr width="100%>
+    <td width="30%"><b>DevOps & Tools</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
